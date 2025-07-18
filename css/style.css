@@ -325,7 +325,7 @@ ul.nptabbs li.active img{filter:brightness(0) invert(1)}
 .tabb_container{margin-top:15px;border:1px solid #fff;border-top:none;clear:both;float:left;width:100%;background:rgb(255 255 255 / 40%);overflow:auto}
 .tabb_content{padding:10px 5px 0;display:none;overflow:hidden}
 .tabb_content h3{font-size:24px;color:#3096d3;font-weight:600;margin-bottom:10px;line-height:normal}
-.tabb_content h6{margin-top:15px;font-size:21px;color:#212121;font-weight:500;margin-bottom:10px;line-height:normal}
+.tabb_content h4{margin-top:15px;font-size:21px;color:#212121;font-weight:500;margin-bottom:10px;line-height:normal}
 .tabb_content ul{padding-inline-start:20px}
 .tabb_content p,.tabb_content ul li{font-size:16px;color:#757575;margin-bottom:8px}
 .tabb_content ul li::marker{color:#3096d3;font-size:18px}
