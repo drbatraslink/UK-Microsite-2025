@@ -71,6 +71,8 @@ $(document).ready(function () {
   initializeCarousel(".screenshot_slider", carouselConfigs.screenshot_slider);
   initializeCarousel(".ourdoctor_slider", carouselConfigs.ourdoctor_slider);
   initializeCarousel(".awards_slider", carouselConfigs.awards_slider);
+   
+  $(".owl-nav .owl-prev").attr("role", "button"), $(".owl-nav .owl-next").attr("role", "button") 
 
   /*** 2. Form Focus Styling ***/
   $('input,textarea').val("");
