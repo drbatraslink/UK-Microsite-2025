@@ -268,7 +268,7 @@ a{text-decoration:none}
 .doc_infO_div ul{padding-inline-start:0px}
 .doc_infO_div li{display:flex;align-items:center;margin-bottom:10px}
 .doc_infO_div li:last-child{margin-bottom:5px}
-.doc_infO_div h5{padding-top:20px;color:#212121;line-height:normal;font-size:21px;font-weight:600;margin-bottom:0}
+.doc_infO_div h3{padding-top:20px;color:#212121;line-height:normal;font-size:21px;font-weight:600;margin-bottom:0}
 .doc_infO_div img{width:50px!important;box-shadow:none!important;margin-right:10px}
 .doc_infO_div p{color:#757575;line-height:normal;font-size:16px;font-weight:400;margin-bottom:0}
 .doc_infO_div .info_div_doctors_sub{padding: 0 20px}
@@ -324,14 +324,14 @@ ul.nptabbs li.active{background:#3096d3;padding:45px 0;color:#fff;font-weight:60
 ul.nptabbs li.active img{filter:brightness(0) invert(1)}
 .tabb_container{margin-top:15px;border:1px solid #fff;border-top:none;clear:both;float:left;width:100%;background:rgb(255 255 255 / 40%);overflow:auto}
 .tabb_content{padding:10px 5px 0;display:none;overflow:hidden}
-.tabb_content h5{font-size:24px;color:#3096d3;font-weight:600;margin-bottom:10px;line-height:normal}
+.tabb_content h3{font-size:24px;color:#3096d3;font-weight:600;margin-bottom:10px;line-height:normal}
 .tabb_content h6{margin-top:15px;font-size:21px;color:#212121;font-weight:500;margin-bottom:10px;line-height:normal}
 .tabb_content ul{padding-inline-start:20px}
 .tabb_content p,.tabb_content ul li{font-size:16px;color:#757575;margin-bottom:8px}
 .tabb_content ul li::marker{color:#3096d3;font-size:18px}
 .tabb_drawer_heading{display:none}
 @media screen and (max-width:560px){
-.tabb_content h5{margin-top:10px}
+.tabb_content h3{margin-top:10px}
 .tabb_content ul{margin-bottom:0}
 ul.nptabbs{display:none}
 .tabb_drawer_heading{background:rgb(255 255 255 / 80%);border-radius:6px;color:#3096d3;font-size:18px;font-weight:600;border:1px solid #d2d2d2;margin:5px 0;padding:5px 20px;display:block;cursor:pointer;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
